@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Release Notes</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Release Notes</h1>
+  </header>
+  
+  <main>
+    <section>
+      <h2>Version 1.0</h2>
+      <ul>
+        <li>Added new feature A</li>
+        <li>Fixed bug B</li>
+        <li>Improved performance of C</li>
+      </ul>
+    </section>
+    
+    <section>
+      <h2>Version 2.0</h2>
+      <ul>
+        <li>Added new feature D</li>
+        <li>Fixed bug E</li>
+        <li>Improved performance of F</li>
+      </ul>
+    </section>
+  </main>
+  
+  <footer>
+    <p>Copyright © 2023</p>
+  </footer>
+</body>
+</html>
